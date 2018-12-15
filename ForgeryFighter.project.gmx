@@ -210,7 +210,6 @@
         <sprite>sprites\sprDollBar</sprite>
       </sprites>
     </sprites>
-    <sprite>sprites\test</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\backgroundClouds</background>
